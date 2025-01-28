@@ -54,7 +54,6 @@ fun NotesScreen(
         floatingActionButton = {
             FloatingActionButton(onClick = {
 
-
             },
                 backgroundColor = MaterialTheme.colors.primary
             ) {
